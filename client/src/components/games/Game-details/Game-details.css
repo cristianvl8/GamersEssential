@@ -1,0 +1,38 @@
+.game-detail {
+margin: 10px;
+
+}
+
+.image-detail img {
+    width:100%;
+    height: 100%;
+    object-fit: cover;
+    margin-top: 20px;
+}
+
+.game-detail p {
+    margin-top: 25px;
+  color: rgb(150, 194, 69);
+}
+
+.game-info {
+    margin-top: 20px;
+        display: block;
+    justify-content: center;
+}
+
+
+.video-player {
+    display: flex;
+    justify-content: center;
+
+}
+
+.fav-btns {
+    margin: 20px;
+
+}
+
+.btn-fav-2 {
+    margin-left: 20px;
+}

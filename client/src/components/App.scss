@@ -1,0 +1,155 @@
+h1 {
+  font-size: 3em;
+}
+
+body {
+  background: url("./bkg.jpg");
+  background-size: cover;
+    background-repeat: no-repeat;
+  font-family: 'Share Tech Mono', sans-serif;
+  color: #fff;
+}
+
+/* BACK BUTTON */
+.btn-default {
+  margin-left: 30px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  border-radius: 15px;
+	
+}
+
+.btn-default-create {
+    background-color: inherit;
+
+    border-radius: 15px;
+    color: #fff;
+}
+
+.btn-default-create:hover {
+     background-color: rgb(34, 31, 31);
+     transform: scale(1.5);
+     color: rgb(60, 127, 214);
+     padding:10px;
+ }
+
+/* FAV BUTTON */
+
+.fav-btn-add {
+
+  color: rgb(59, 179, 59);
+  border-radius: 30px;
+
+  margin-right: 20px;
+  margin-top: 20px;
+  margin-bottom: 50px;
+}
+
+.fav-btn-add:hover {
+
+color: rgb(47, 223, 120);
+  
+}
+
+.fav-btn-remove {
+
+  color: rgb(161, 49, 41);
+  border-radius: 30px;
+  margin-right: 20px;
+  margin-top: 20px;
+  margin-bottom: 50px
+}
+
+.fav-btn-remove:hover {
+  color: rgb(250, 112, 112)
+}
+
+/* CREATE BUTTON */
+.create-btn {
+  background-color:#fff;
+  color: blue;
+  margin-top: 20px;
+}
+
+.create-btn:hover {
+
+background-color: rgb(46, 42, 42);
+
+}
+
+/* EDIT BUTTON */
+
+.edit-btn {
+
+background-color:rgb(35, 134, 173);
+  color: white;
+  margin-top: 20px;
+  border-radius: 5px;
+  padding: 8px 12px;
+  border: none;
+}
+
+.edit-btn:hover {
+
+  background-color: rgb(36, 98, 192) ;
+
+
+}
+/* DELETE BUTTON */
+
+.delete-btn {
+
+  background-color:rgb(163, 49, 20);
+  color: white;
+  margin-top: 20px;
+  border-radius: 5px;
+  padding: 8px 12px;
+  border:none;
+}
+
+.delete-btn:hover {
+
+  background-color: rgb(199, 78, 78) ;
+
+}
+
+
+/* INSERT COMMENTS*/
+
+
+.box{
+  font-size: 25px;
+  margin:25px;
+  width:95%;
+  height:100%;
+  border: solid black;
+  border-color: black;
+  float:left; 
+}
+
+
+.box1{
+  border-width: 3px 4px 3px 5px;
+  border-radius:95% 4% 92% 5%/4% 95% 6% 95%;
+}
+
+.oddboxinner{
+  padding: 30px;
+  color: rgb(219, 241, 255);
+}
+.oddboxinner:hover {
+  color: rgb(61, 61, 175);
+}
+
+.oddboxinner2{
+  padding: 30px;
+  color: rgb(197, 159, 159);
+}
+
+.oddboxinner2:hover {
+  color: rgb(243, 80, 21);
+}
+
+.table-comments {
+  margin: 10px 30px;
+}

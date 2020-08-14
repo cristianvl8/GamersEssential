@@ -1,0 +1,49 @@
+.community-card {
+    margin:40px;
+    width: 250px;
+    box-shadow: 5px 5px 5px rgba(94, 78, 78, 0.555);
+    background-color: inherit;
+    border-radius: 15px;
+}
+.community-card:hover{
+    transform: scale(1.2);
+}
+
+.community-card-body {
+    color: #fff;
+    margin-left:15px;
+    width: 240;
+    padding: 5px;
+
+
+
+}
+
+.community-card img {
+    margin-left: 15px;
+    width: 250px;
+    height:150px;
+    object-fit: cover;
+    border-radius: 15px 15px 0 0
+}
+
+.text-center {
+    margin-bottom:20px;
+}
+
+
+/* MODAL */
+.modal-page {
+    background-image: url('https://www.setaswall.com/wp-content/uploads/2018/11/PUBG-Phone-Wallpaper-05-1080x2340.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+.modal-window {
+   border-radius: 10px !important;
+}
+
+
+
+
+

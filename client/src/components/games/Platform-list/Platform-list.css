@@ -1,0 +1,143 @@
+
+/* PLATFORM BAR*/
+.platform-bar {
+    margin-bottom:10px;
+}
+
+.platform-bar img{
+    height: 35px;
+   width:100px;
+   object-fit: cover;
+}
+
+
+/* PC */
+.pc {
+    background-color: rgb(173, 165, 165);
+    border-left: 1px solid #000;
+    border-top: 1px solid #000;
+    border-right: 1px solid #000;
+    border-bottom: none;
+    border-radius: 15px 15px 0 0;
+    width: 120px;
+    opacity: 0.7;
+}
+
+.pc:hover {
+    opacity: 1;
+    background-color: #fff;
+}
+
+.pc img {
+    width: 40px;
+    object-fit: cover;
+}
+
+/* PS4 */
+.ps4{
+    background-color: rgb(173, 165, 165);
+    height: 50px;
+    border-left: 1px solid #000;
+    border-top: 1px solid #000;
+    border-right: 1px solid #000;
+    border-bottom: none;
+    border-radius: 15px 15px 0 0;
+    width: 120px;
+    opacity: 0.7;
+}
+
+.ps4:hover {
+    opacity: 1;
+    background-color: #fff;
+}
+
+
+/* PS5 */
+.ps5 {
+    background-color: rgb(173, 165, 165);
+    height: 50px;
+    border-left: 1px solid #000;
+    border-top: 1px solid #000;
+    border-right: 1px solid #000;
+    border-bottom: none;
+    border-radius: 15px 15px 0 0;
+    width: 120px;
+    opacity: 0.7;
+}
+
+.ps5:hover {
+    opacity: 1;
+    background-color: #fff;
+}
+
+.ps5 img {
+    width: 100px;
+}
+
+/* XBOX-ONE */
+.xbox-one {
+        background-color: rgb(173, 165, 165);
+    height: 50px;
+    border-left: 1px solid #000;
+    border-top: 1px solid #000;
+    border-right: 1px solid #000;
+    border-bottom: none;
+    border-radius: 15px 15px 0 0;
+     opacity: 0.7;
+}
+
+.xbox-one img {
+    height: 15px;
+    object-fit: cover;
+}
+
+.xbox-one:hover {
+    opacity: 1;
+    background-color: #fff;
+}
+
+
+/* XBOX-x */
+.xbox-x {
+        background-color: rgb(173, 165, 165);
+    height: 50px;
+    border-left: 1px solid #000;
+    border-top: 1px solid #000;
+    border-right: 1px solid #000;
+    border-bottom: none;
+    border-radius: 15px 15px 0 0;
+    opacity: 0.7;
+}
+
+.xbox-x:hover {
+    opacity: 1;
+    background-color: #fff;
+}
+
+.xbox-x img {
+    width: 38px;
+    object-fit: cover;
+}
+
+
+/* SWITCH */
+.switch {
+    background-color: rgb(173, 165, 165);
+    height: 50px;
+    border-left: 1px solid #000;
+    border-top: 1px solid #000;
+    border-right: 1px solid #000;
+    border-bottom: none;
+    border-radius: 15px 15px 0 0;
+    opacity: 0.7;
+}
+
+.switch:hover {
+    opacity: 1;
+    background-color: #fff;
+}
+
+.page-count p {
+    text-align: right;
+    margin: 10px;
+}
